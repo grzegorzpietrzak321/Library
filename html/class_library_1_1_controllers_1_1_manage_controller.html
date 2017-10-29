@@ -1,0 +1,605 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.13"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Library: Dokumentacja klasy Library.Controllers.ManageController</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectlogo"><img alt="Logo" src="smiley-154420_6401.png"/></td>
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">Library
+   &#160;<span id="projectnumber">1</span>
+   </div>
+   <div id="projectbrief">Small home library</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Wygenerowano przez Doxygen 1.8.13 -->
+<script type="text/javascript">
+var searchBox = new SearchBox("searchBox", "search",false,'Szukaj');
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+$(function() {
+  initMenu('',true,false,'search.php','Szukaj');
+  $(document).ready(function() { init_search(); });
+});
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="namespace_library.html">Library</a></li><li class="navelem"><a class="el" href="namespace_library_1_1_controllers.html">Controllers</a></li><li class="navelem"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html">ManageController</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-types">Typy publiczne</a> &#124;
+<a href="#pub-methods">Metody publiczne</a> &#124;
+<a href="#pro-methods">Metody chronione</a> &#124;
+<a href="#properties">Właściwości</a> &#124;
+<a href="class_library_1_1_controllers_1_1_manage_controller-members.html">Lista wszystkich składowych</a>  </div>
+  <div class="headertitle">
+<div class="title">Dokumentacja klasy Library.Controllers.ManageController</div>  </div>
+</div><!--header-->
+<div class="contents">
+<div class="dynheader">
+Diagram dziedziczenia dla Library.Controllers.ManageController</div>
+<div class="dyncontent">
+ <div class="center">
+  <img src="class_library_1_1_controllers_1_1_manage_controller.png" usemap="#Library.Controllers.ManageController_map" alt=""/>
+  <map id="Library.Controllers.ManageController_map" name="Library.Controllers.ManageController_map">
+</map>
+ </div></div>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
+Typy publiczne</h2></td></tr>
+<tr class="memitem:ab72c3f170eb9bb9f6b059242c28d2052"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">ManageMessageId</a> { <br />
+&#160;&#160;<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af08d36b2147213fadb3b223d149ac802">ManageMessageId.AddPhoneSuccess</a>, 
+<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a0053618c57496fec45c67daf91919394">ManageMessageId.ChangePasswordSuccess</a>, 
+<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17987d9118fd576fed3cbec8d11bd8b">ManageMessageId.SetTwoFactorSuccess</a>, 
+<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17ca72fcf8adaa46d5e87b12ec3a27d">ManageMessageId.SetPasswordSuccess</a>, 
+<br />
+&#160;&#160;<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a46e53931d0e837638a46368b2b04ba6a">ManageMessageId.RemoveLoginSuccess</a>, 
+<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a70460d8db9c29752c1f591eb67a60fdc">ManageMessageId.RemovePhoneSuccess</a>, 
+<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a902b0d55fddef6f8d651fe1035b7d4bd">ManageMessageId.Error</a>
+<br />
+ }</td></tr>
+<tr class="separator:ab72c3f170eb9bb9f6b059242c28d2052"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
+Metody publiczne</h2></td></tr>
+<tr class="memitem:af18e857ed28253b48a2a56c7eee7a0da"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#af18e857ed28253b48a2a56c7eee7a0da">ManageController</a> ()</td></tr>
+<tr class="separator:af18e857ed28253b48a2a56c7eee7a0da"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac59e95e8aa419c0c8c388226ed1b0a0b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ac59e95e8aa419c0c8c388226ed1b0a0b">ManageController</a> (<a class="el" href="class_library_1_1_application_user_manager.html">ApplicationUserManager</a> userManager, <a class="el" href="class_library_1_1_application_sign_in_manager.html">ApplicationSignInManager</a> signInManager)</td></tr>
+<tr class="separator:ac59e95e8aa419c0c8c388226ed1b0a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a3e0fe422c66f4a56eb836fc2bde1c1db"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a3e0fe422c66f4a56eb836fc2bde1c1db">Index</a> (<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">ManageMessageId</a>? message)</td></tr>
+<tr class="separator:a3e0fe422c66f4a56eb836fc2bde1c1db"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae0bef12948e5fd7ed9668cbf74ca75e4"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ae0bef12948e5fd7ed9668cbf74ca75e4">RemoveLogin</a> (string loginProvider, string providerKey)</td></tr>
+<tr class="separator:ae0bef12948e5fd7ed9668cbf74ca75e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa8364d398f511ec0eb564cda038a4948"><td class="memItemLeft" align="right" valign="top">ActionResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#aa8364d398f511ec0eb564cda038a4948">AddPhoneNumber</a> ()</td></tr>
+<tr class="separator:aa8364d398f511ec0eb564cda038a4948"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a72b27999fdf8725b7cd121192aef0020"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a72b27999fdf8725b7cd121192aef0020">AddPhoneNumber</a> (<a class="el" href="class_library_1_1_models_1_1_add_phone_number_view_model.html">AddPhoneNumberViewModel</a> model)</td></tr>
+<tr class="separator:a72b27999fdf8725b7cd121192aef0020"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6c0e71ad3cfdb9277de70b5f63a99eaa"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a6c0e71ad3cfdb9277de70b5f63a99eaa">EnableTwoFactorAuthentication</a> ()</td></tr>
+<tr class="separator:a6c0e71ad3cfdb9277de70b5f63a99eaa"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8c95d532c1833737852425c7fd90312d"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a8c95d532c1833737852425c7fd90312d">DisableTwoFactorAuthentication</a> ()</td></tr>
+<tr class="separator:a8c95d532c1833737852425c7fd90312d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a538cafc57c0b9b5f69409ec501e087c1"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a538cafc57c0b9b5f69409ec501e087c1">VerifyPhoneNumber</a> (string phoneNumber)</td></tr>
+<tr class="separator:a538cafc57c0b9b5f69409ec501e087c1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a832347cb42ba617cae0c8bc7a1d70758"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a832347cb42ba617cae0c8bc7a1d70758">VerifyPhoneNumber</a> (<a class="el" href="class_library_1_1_models_1_1_verify_phone_number_view_model.html">VerifyPhoneNumberViewModel</a> model)</td></tr>
+<tr class="separator:a832347cb42ba617cae0c8bc7a1d70758"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af366502415f059111b4e24d5507cd5e3"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#af366502415f059111b4e24d5507cd5e3">RemovePhoneNumber</a> ()</td></tr>
+<tr class="separator:af366502415f059111b4e24d5507cd5e3"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ae4410cd46e1b19238699dbb8afa7bb41"><td class="memItemLeft" align="right" valign="top">ActionResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ae4410cd46e1b19238699dbb8afa7bb41">ChangePassword</a> ()</td></tr>
+<tr class="separator:ae4410cd46e1b19238699dbb8afa7bb41"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab5d5e51d0ab326001c0cfc0f6fc961cb"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab5d5e51d0ab326001c0cfc0f6fc961cb">ChangePassword</a> (<a class="el" href="class_library_1_1_models_1_1_change_password_view_model.html">ChangePasswordViewModel</a> model)</td></tr>
+<tr class="separator:ab5d5e51d0ab326001c0cfc0f6fc961cb"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a5680f28fd0bf1f5081ac6c8324a6aad9"><td class="memItemLeft" align="right" valign="top">ActionResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a5680f28fd0bf1f5081ac6c8324a6aad9">SetPassword</a> ()</td></tr>
+<tr class="separator:a5680f28fd0bf1f5081ac6c8324a6aad9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:adeb04ff448076e88f4db88209e94b658"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#adeb04ff448076e88f4db88209e94b658">SetPassword</a> (<a class="el" href="class_library_1_1_models_1_1_set_password_view_model.html">SetPasswordViewModel</a> model)</td></tr>
+<tr class="separator:adeb04ff448076e88f4db88209e94b658"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a27d71979bf36fd1f8abb0d964101b676"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a27d71979bf36fd1f8abb0d964101b676">ManageLogins</a> (<a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">ManageMessageId</a>? message)</td></tr>
+<tr class="separator:a27d71979bf36fd1f8abb0d964101b676"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abb3399242c369abdecf4fe64c62023ad"><td class="memItemLeft" align="right" valign="top">ActionResult&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#abb3399242c369abdecf4fe64c62023ad">LinkLogin</a> (string provider)</td></tr>
+<tr class="separator:abb3399242c369abdecf4fe64c62023ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad76164ee029263e15f27008bec595f28"><td class="memItemLeft" align="right" valign="top">async Task&lt; ActionResult &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ad76164ee029263e15f27008bec595f28">LinkLoginCallback</a> ()</td></tr>
+<tr class="separator:ad76164ee029263e15f27008bec595f28"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
+Metody chronione</h2></td></tr>
+<tr class="memitem:a09b93d92ba11492d07929adbf21f298a"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a09b93d92ba11492d07929adbf21f298a">Dispose</a> (bool disposing)</td></tr>
+<tr class="separator:a09b93d92ba11492d07929adbf21f298a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="properties"></a>
+Właściwości</h2></td></tr>
+<tr class="memitem:afb3651e7578c166e678a789de13b9a6c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_library_1_1_application_sign_in_manager.html">ApplicationSignInManager</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#afb3651e7578c166e678a789de13b9a6c">SignInManager</a><code> [get]</code></td></tr>
+<tr class="separator:afb3651e7578c166e678a789de13b9a6c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a71d570a26c9915bc0177461495bba442"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_library_1_1_application_user_manager.html">ApplicationUserManager</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#a71d570a26c9915bc0177461495bba442">UserManager</a><code> [get]</code></td></tr>
+<tr class="separator:a71d570a26c9915bc0177461495bba442"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<h2 class="groupheader">Dokumentacja składowych wyliczanych</h2>
+<a id="ab72c3f170eb9bb9f6b059242c28d2052"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab72c3f170eb9bb9f6b059242c28d2052">&#9670;&nbsp;</a></span>ManageMessageId</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">Library.Controllers.ManageController.ManageMessageId</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Wartości wyliczeń</th></tr><tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052af08d36b2147213fadb3b223d149ac802"></a>AddPhoneSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052a0053618c57496fec45c67daf91919394"></a>ChangePasswordSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052af17987d9118fd576fed3cbec8d11bd8b"></a>SetTwoFactorSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052af17ca72fcf8adaa46d5e87b12ec3a27d"></a>SetPasswordSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052a46e53931d0e837638a46368b2b04ba6a"></a>RemoveLoginSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052a70460d8db9c29752c1f591eb67a60fdc"></a>RemovePhoneSuccess&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="ab72c3f170eb9bb9f6b059242c28d2052a902b0d55fddef6f8d651fe1035b7d4bd"></a>Error&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja konstruktora i destruktora</h2>
+<a id="af18e857ed28253b48a2a56c7eee7a0da"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af18e857ed28253b48a2a56c7eee7a0da">&#9670;&nbsp;</a></span>ManageController() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Library.Controllers.ManageController.ManageController </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ac59e95e8aa419c0c8c388226ed1b0a0b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac59e95e8aa419c0c8c388226ed1b0a0b">&#9670;&nbsp;</a></span>ManageController() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Library.Controllers.ManageController.ManageController </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_application_user_manager.html">ApplicationUserManager</a>&#160;</td>
+          <td class="paramname"><em>userManager</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_application_sign_in_manager.html">ApplicationSignInManager</a>&#160;</td>
+          <td class="paramname"><em>signInManager</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja funkcji składowych</h2>
+<a id="aa8364d398f511ec0eb564cda038a4948"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa8364d398f511ec0eb564cda038a4948">&#9670;&nbsp;</a></span>AddPhoneNumber() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ActionResult Library.Controllers.ManageController.AddPhoneNumber </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a72b27999fdf8725b7cd121192aef0020"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a72b27999fdf8725b7cd121192aef0020">&#9670;&nbsp;</a></span>AddPhoneNumber() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.AddPhoneNumber </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_models_1_1_add_phone_number_view_model.html">AddPhoneNumberViewModel</a>&#160;</td>
+          <td class="paramname"><em>model</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae4410cd46e1b19238699dbb8afa7bb41"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae4410cd46e1b19238699dbb8afa7bb41">&#9670;&nbsp;</a></span>ChangePassword() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ActionResult Library.Controllers.ManageController.ChangePassword </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ab5d5e51d0ab326001c0cfc0f6fc961cb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab5d5e51d0ab326001c0cfc0f6fc961cb">&#9670;&nbsp;</a></span>ChangePassword() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.ChangePassword </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_models_1_1_change_password_view_model.html">ChangePasswordViewModel</a>&#160;</td>
+          <td class="paramname"><em>model</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a8c95d532c1833737852425c7fd90312d"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8c95d532c1833737852425c7fd90312d">&#9670;&nbsp;</a></span>DisableTwoFactorAuthentication()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.DisableTwoFactorAuthentication </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a09b93d92ba11492d07929adbf21f298a"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09b93d92ba11492d07929adbf21f298a">&#9670;&nbsp;</a></span>Dispose()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">override void Library.Controllers.ManageController.Dispose </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>disposing</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">protected</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a6c0e71ad3cfdb9277de70b5f63a99eaa"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6c0e71ad3cfdb9277de70b5f63a99eaa">&#9670;&nbsp;</a></span>EnableTwoFactorAuthentication()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.EnableTwoFactorAuthentication </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a3e0fe422c66f4a56eb836fc2bde1c1db"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a3e0fe422c66f4a56eb836fc2bde1c1db">&#9670;&nbsp;</a></span>Index()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.Index </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">ManageMessageId</a>?&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="abb3399242c369abdecf4fe64c62023ad"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abb3399242c369abdecf4fe64c62023ad">&#9670;&nbsp;</a></span>LinkLogin()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ActionResult Library.Controllers.ManageController.LinkLogin </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>provider</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ad76164ee029263e15f27008bec595f28"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad76164ee029263e15f27008bec595f28">&#9670;&nbsp;</a></span>LinkLoginCallback()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.LinkLoginCallback </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a27d71979bf36fd1f8abb0d964101b676"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a27d71979bf36fd1f8abb0d964101b676">&#9670;&nbsp;</a></span>ManageLogins()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.ManageLogins </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052">ManageMessageId</a>?&#160;</td>
+          <td class="paramname"><em>message</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="ae0bef12948e5fd7ed9668cbf74ca75e4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae0bef12948e5fd7ed9668cbf74ca75e4">&#9670;&nbsp;</a></span>RemoveLogin()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.RemoveLogin </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>loginProvider</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>providerKey</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="af366502415f059111b4e24d5507cd5e3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af366502415f059111b4e24d5507cd5e3">&#9670;&nbsp;</a></span>RemovePhoneNumber()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.RemovePhoneNumber </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a5680f28fd0bf1f5081ac6c8324a6aad9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5680f28fd0bf1f5081ac6c8324a6aad9">&#9670;&nbsp;</a></span>SetPassword() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">ActionResult Library.Controllers.ManageController.SetPassword </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="adeb04ff448076e88f4db88209e94b658"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#adeb04ff448076e88f4db88209e94b658">&#9670;&nbsp;</a></span>SetPassword() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.SetPassword </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_models_1_1_set_password_view_model.html">SetPasswordViewModel</a>&#160;</td>
+          <td class="paramname"><em>model</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a538cafc57c0b9b5f69409ec501e087c1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a538cafc57c0b9b5f69409ec501e087c1">&#9670;&nbsp;</a></span>VerifyPhoneNumber() <span class="overload">[1/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.VerifyPhoneNumber </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>phoneNumber</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a832347cb42ba617cae0c8bc7a1d70758"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a832347cb42ba617cae0c8bc7a1d70758">&#9670;&nbsp;</a></span>VerifyPhoneNumber() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">async Task&lt;ActionResult&gt; Library.Controllers.ManageController.VerifyPhoneNumber </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="class_library_1_1_models_1_1_verify_phone_number_view_model.html">VerifyPhoneNumberViewModel</a>&#160;</td>
+          <td class="paramname"><em>model</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<h2 class="groupheader">Dokumentacja właściwości</h2>
+<a id="afb3651e7578c166e678a789de13b9a6c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afb3651e7578c166e678a789de13b9a6c">&#9670;&nbsp;</a></span>SignInManager</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_library_1_1_application_sign_in_manager.html">ApplicationSignInManager</a> Library.Controllers.ManageController.SignInManager</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a71d570a26c9915bc0177461495bba442"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a71d570a26c9915bc0177461495bba442">&#9670;&nbsp;</a></span>UserManager</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="class_library_1_1_application_user_manager.html">ApplicationUserManager</a> Library.Controllers.ManageController.UserManager</td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">get</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<hr/>Dokumentacja dla tej klasy została wygenerowana z pliku:<ul>
+<li>Library/Controllers/<a class="el" href="_manage_controller_8cs.html">ManageController.cs</a></li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Wygenerowano przez &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.13
+</small></address>
+</body>
+</html>

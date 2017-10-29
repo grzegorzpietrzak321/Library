@@ -1,0 +1,698 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Pakiety"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Pakiety"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library"><param name="Local" value="namespace_library.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controllers"><param name="Local" value="namespace_library_1_1_controllers.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Models"><param name="Local" value="namespace_library_1_1_models.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Klasy"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista klas"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library"><param name="Local" value="namespace_library.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controllers"><param name="Local" value="namespace_library_1_1_controllers.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#af7993983665b1a3c9a4fda656535af4c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7d7d7b847431db1d414f0808db7c8eb8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmEmail"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ad66406e78a550447bb3437f29e2ac940"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a3fe72fc2696b37648baa20d8a9014468"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLogin"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ad5523c7284d68527b69c62fcd45b3222"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginCallback"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ae221550ddcbf35af21f0e95318dade20"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9ed2ba685908d5b929d594a731aa891c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginFailure"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aceb02440b581b45177a909677ee77600"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a29a4d30e3a7e656d328a5619bc1bbfdd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a842d643bb72f325e6957a802766a4140"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPasswordConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a6510f8ec78c4379760113b4837ecb949"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Login"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ab06a0e89e894d821864ea6126cea93ad"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Login"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a2b4d1d94765b720f8f4170384c0db6bc"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LogOff"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9b8431d1975897d6575e385e53966dab"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Register"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aa8f967558ffaf05128bb8c134ea4b571"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Register"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#afcd8a01419f5cfb4e9cd73bdaf3cdcd4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a51d31d6113f339f19c2eb389ec56de7f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aae872f8e51bfc540b77cd81af70279b6"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPasswordConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a241928af9b550bdb3c67b064748f466d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7a45ec13bed342ee47bb9d1bd460ba9a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7b39975b4cc4348965ed881d8db7bf98"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a30349223df2132199c46689dbb1e6cd9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a6b3be57e435b07b10ec51d43e5a102b9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthenticationManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#abfab618a932c617eade4eb99d984b6d9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SignInManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9cd4acf12aecd8ed23b0354b4a37e4d4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a748166b301c199bfb03ec71f449e9f51"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a18846ff0b1d4d1179b1e7499ea9fe2ef"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a4416f8947334a99f79a4a5f29a211a23"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CleanDb"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#aa1edd5418889c10329e639a42d803d8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a2a2ee841597632c5310a5bf29b583a50"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ab0ecb2c0fb1d7acae73f74e9ae83f8c9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Delete"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ac0f62fc6e97422d8dbdcc3c408991057"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteConfirmed"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae7c08a5b590bdb2aa92dc4ca6196a03f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Details"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a9c2a6eb9b7447fb6afadf27d47bd9c57"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae48131c94300e336cf78accd2437663b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Edit"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#acb71e4b526782fe8d8035c7615fe1ca9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Edit"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a508bde8c38fb5372e29259ff78f5cddf"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Export"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a3f9e4d382adcfc4d1c65a00d5fe32754"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Import"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a051faad3e17da6333568c7af58c18c8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Import"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a8bda11f4e1928b53cce12296943b6f52"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ada36e4fcc29ce88d0b14e2024e52d915"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAsc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae95ea517de03f3c9b2f7378b26c0a8c5"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAuthAsc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ab78a710f2cb27040ebfcfeb5f59a0a8a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAuthDesc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#aaaadc278cbe865dea1d4cbe104174392"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexDesc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a59d3024606802a6c4e0c7b182a84f0af"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HomeController"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="About"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a8a81282747fa93860bfca130d4961f31"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Contact"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a85f7c4c511f08d851f80412ff2e94203"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a35b904a96f19a2d723e61ef2bd779fa7"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageMessageId"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af08d36b2147213fadb3b223d149ac802"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePasswordSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a0053618c57496fec45c67daf91919394"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SetTwoFactorSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17987d9118fd576fed3cbec8d11bd8b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPasswordSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17ca72fcf8adaa46d5e87b12ec3a27d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveLoginSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a46e53931d0e837638a46368b2b04ba6a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RemovePhoneSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a70460d8db9c29752c1f591eb67a60fdc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Error"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a902b0d55fddef6f8d651fe1035b7d4bd"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#af18e857ed28253b48a2a56c7eee7a0da"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ac59e95e8aa419c0c8c388226ed1b0a0b"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#aa8364d398f511ec0eb564cda038a4948"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a72b27999fdf8725b7cd121192aef0020"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ae4410cd46e1b19238699dbb8afa7bb41"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab5d5e51d0ab326001c0cfc0f6fc961cb"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableTwoFactorAuthentication"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a8c95d532c1833737852425c7fd90312d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a09b93d92ba11492d07929adbf21f298a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableTwoFactorAuthentication"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a6c0e71ad3cfdb9277de70b5f63a99eaa"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a3e0fe422c66f4a56eb836fc2bde1c1db"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LinkLogin"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#abb3399242c369abdecf4fe64c62023ad"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LinkLoginCallback"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ad76164ee029263e15f27008bec595f28"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageLogins"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a27d71979bf36fd1f8abb0d964101b676"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveLogin"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ae0bef12948e5fd7ed9668cbf74ca75e4"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RemovePhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#af366502415f059111b4e24d5507cd5e3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a5680f28fd0bf1f5081ac6c8324a6aad9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#adeb04ff448076e88f4db88209e94b658"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a538cafc57c0b9b5f69409ec501e087c1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a832347cb42ba617cae0c8bc7a1d70758"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthenticationManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab9911323289b43d0724e10f091f70a7f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SignInManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#afb3651e7578c166e678a789de13b9a6c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="UserManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a71d570a26c9915bc0177461495bba442"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Models"><param name="Local" value="namespace_library_1_1_models.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_add_phone_number_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Number"><param name="Local" value="class_library_1_1_models_1_1_add_phone_number_view_model.html#a0f1c5c176303d35e345e8eb2da5b4273"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationDbContext"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationDbContext"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html#ab00700c88216462ad2bbdb8257ef1053"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Books"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html#a681112947c98b5058a08d566d625ee7d"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUser"><param name="Local" value="class_library_1_1_models_1_1_application_user.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerateUserIdentityAsync"><param name="Local" value="class_library_1_1_models_1_1_application_user.html#a12de198324f1de8f58d0235d96576da0"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Book"><param name="Local" value="class_library_1_1_models_1_1_book.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Author"><param name="Local" value="class_library_1_1_models_1_1_book.html#a5a1817f136be83f2d8a4dd4ce60689f1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="class_library_1_1_models_1_1_book.html#a41a3caf33fe05c396fc3f2ec434d398e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Isbn"><param name="Local" value="class_library_1_1_models_1_1_book.html#ae0337d27cb49fe005529041bde101dec"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Rate"><param name="Local" value="class_library_1_1_models_1_1_book.html#add1dbb89ffd73e4f1516ac07f5af657d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Title"><param name="Local" value="class_library_1_1_models_1_1_book.html#a6dc561a6c496212d5c67c8a5ed32f5b3"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#a739379f44d007ac63b6dbd8519b52b4d"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#a32780d9a0452af7075beedb5f0d5084c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OldPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#aaabc16e759846eb17355e40fb0708862"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureTwoFactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Providers"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html#aaaeb66d1542b98235303c709d5a44a69"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectedProvider"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html#a53502921220bff741b41561a06c2eeb5"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginConfirmationViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_confirmation_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_external_login_confirmation_view_model.html#acf87ea03eca17ed35526c9e7ca42cb43"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginListViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_list_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_external_login_list_view_model.html#a910d9a8e70e535d8243e0c6ecbc6a398"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_factor_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Purpose"><param name="Local" value="class_library_1_1_models_1_1_factor_view_model.html#a8958b918616f26df5f70a693ab11b699"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_forgot_password_view_model.html#ae2e3623bb063b748f32bd0970bcbd309"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_forgot_view_model.html#aa28c9ce74be24a212a484b90e8c1837f"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ILibraryDb"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Add&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#a00642abcb30f554fbed2e00ac3c09067"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Query&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#a5d489ead8978ba01c712af7659496b62"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Remove&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#aaa461fccadd7279cb1cff4b62a443d62"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Update&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#ac485b117f8d1fb15e77d563f01fec740"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexViewModel"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BrowserRemembered"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a0b0a215d756a40215c0c1ddd1dfb0193"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HasPassword"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a4c67eaea48e5b7555d5d46920603551c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Logins"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a5a737d665aa4f8fa05e13bbfb8e97e67"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PhoneNumber"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#ad59bb05d29521dd165d11c5fc49cfcb2"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TwoFactor"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#af4b03626cc75a553eedb6dddd306f4e6"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibraryDb"><param name="Local" value="class_library_1_1_models_1_1_library_db.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Add&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a59572a8775d9dac23f33301dd5680fca"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Query&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a136c1c3555c216f6bdd59a874dc24097"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Remove&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a85af879b0d605628573343d3e9b5efb8"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Update&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a56eb5ae6d48e2b156689e87d4e17b63f"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Books"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a34671467a0e6a7ae2cbacde51719cb5a"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LoginViewModel"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#a51d039962a301f6b4c77d5493584f210"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#adf889d34271fd3e2184bb0a6612eb8cd"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#ae2e44ea3a203403f05139d60bf03661c"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageLoginsViewModel"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentLogins"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html#a9a424138c8fb8b1cdc1fbd0ccbf67783"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OtherLogins"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html#abbe0570d9d200bf55492b4050e849a91"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RegisterViewModel"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a7be7bdf951ba7c5ea1cc4203f82f9825"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a436f933bdb2c30659ff6d189b6db3509"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a807b4d40f66a6417156a3e033a63cb47"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#a13af4accacaa57d63171a558425b0a2c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#acf466e40bd2c27863d7f2a418c54434a"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#a673b1d422813cb4dc887cd844b774ae3"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#adb2a59569e4d8883135ce4f48208f7de"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Providers"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#a34484c886213e020e4eb2277dc2aba4e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#ac7ed1cf0e22157bdeeb2fc894e07573e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#a7ee5c9c22faff904f141232867a3c2b1"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectedProvider"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#adae149e8ec284964a3c262f4ce002890"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html#a9b061c765f6f9bd270278f814648e43c"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPassword"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html#a1ee06c11dcad3cb42b51838f50e45b57"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a7812862c46c88a5bbf441d958cc75cc9"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Provider"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#afb2b8085dfa1fa8fb5c0aaaed481fe1e"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberBrowser"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a8ea20923ffd0a9e097ba8171b0c05aff"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#aa4846ae60ee9431aa18d9cc9621a4c68"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a67cef0c8f70d86187fa690347e5546c9"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html#a9f5d63b3bb3a8b072056d45b50ecfd04"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="PhoneNumber"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html#a43175a4eea3ec8a654f81f75cee67312"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationSignInManager"><param name="Local" value="class_library_1_1_application_sign_in_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationSignInManager"><param name="Local" value="class_library_1_1_application_sign_in_manager.html#a4113a60a7c7f7330e06475c12cf3ef3d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserIdentityAsync"><param name="Local" value="class_library_1_1_application_sign_in_manager.html#ae501e5caa9fb51553d1dfddb38635590"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUserManager"><param name="Local" value="class_library_1_1_application_user_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUserManager"><param name="Local" value="class_library_1_1_application_user_manager.html#afa073931fd3148cf9ef9053c7cbaac44"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="BundleConfig"><param name="Local" value="class_library_1_1_bundle_config.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EmailService"><param name="Local" value="class_library_1_1_email_service.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SendAsync"><param name="Local" value="class_library_1_1_email_service.html#a79e84cc88a4a5f350dfff537a136bc14"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="FilterConfig"><param name="Local" value="class_library_1_1_filter_config.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MvcApplication"><param name="Local" value="class_library_1_1_mvc_application.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Application_Start"><param name="Local" value="class_library_1_1_mvc_application.html#abbc13e17f1d4d3df67d6191b2e4b3ab9"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RouteConfig"><param name="Local" value="class_library_1_1_route_config.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SmsService"><param name="Local" value="class_library_1_1_sms_service.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SendAsync"><param name="Local" value="class_library_1_1_sms_service.html#a07aa5af7ad11c1762dd6a6d05e874389"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Startup"><param name="Local" value="class_library_1_1_startup.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Configuration"><param name="Local" value="class_library_1_1_startup.html#afc518114c37d652431121c1c5bfd9546"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureAuth"><param name="Local" value="class_library_1_1_startup.html#ac7798a2a443291d6e5b2435863f420b3"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Indeks klas"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Hierarchia klas"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.AddPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_add_phone_number_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.Book"><param name="Local" value="class_library_1_1_models_1_1_book.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.BundleConfig"><param name="Local" value="class_library_1_1_bundle_config.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ChangePasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ConfigureTwoFactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Controller"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Controllers.AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Controllers.BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Controllers.HomeController"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Controllers.ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DbContext"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.LibraryDb"><param name="Local" value="class_library_1_1_models_1_1_library_db.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ExternalLoginConfirmationViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_confirmation_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ExternalLoginListViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_list_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.FactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_factor_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.FilterConfig"><param name="Local" value="class_library_1_1_filter_config.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ForgotPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_password_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ForgotViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="HttpApplication"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.MvcApplication"><param name="Local" value="class_library_1_1_mvc_application.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IdentityDbContext"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ApplicationDbContext"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IdentityUser"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ApplicationUser"><param name="Local" value="class_library_1_1_models_1_1_application_user.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IDisposable"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ILibraryDb"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.LibraryDb"><param name="Local" value="class_library_1_1_models_1_1_library_db.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IIdentityMessageService"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.EmailService"><param name="Local" value="class_library_1_1_email_service.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.SmsService"><param name="Local" value="class_library_1_1_sms_service.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.IndexViewModel"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.LoginViewModel"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ManageLoginsViewModel"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.RegisterViewModel"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.ResetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.RouteConfig"><param name="Local" value="class_library_1_1_route_config.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.SendCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.SetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SignInManager"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.ApplicationSignInManager"><param name="Local" value="class_library_1_1_application_sign_in_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Startup"><param name="Local" value="class_library_1_1_startup.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UserManager"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.ApplicationUserManager"><param name="Local" value="class_library_1_1_application_user_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.VerifyCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library.Models.VerifyPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Sk³adowe klas"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Wszystko"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Funkcje"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Wyliczenia"><param name="Local" value="functions_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="W³aœciwoœci"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Pliki"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Lista plików"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Library"><param name="Local" value="dir_5ad7f572bbca03234e8e621e192fc099.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="App_Start"><param name="Local" value="dir_ad66d2e17ca02da4dea1b263309a2190.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BundleConfig.cs"><param name="Local" value="_bundle_config_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BundleConfig"><param name="Local" value="class_library_1_1_bundle_config.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="FilterConfig.cs"><param name="Local" value="_filter_config_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FilterConfig"><param name="Local" value="class_library_1_1_filter_config.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IdentityConfig.cs"><param name="Local" value="_identity_config_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="EmailService"><param name="Local" value="class_library_1_1_email_service.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SendAsync"><param name="Local" value="class_library_1_1_email_service.html#a79e84cc88a4a5f350dfff537a136bc14"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SmsService"><param name="Local" value="class_library_1_1_sms_service.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SendAsync"><param name="Local" value="class_library_1_1_sms_service.html#a07aa5af7ad11c1762dd6a6d05e874389"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUserManager"><param name="Local" value="class_library_1_1_application_user_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUserManager"><param name="Local" value="class_library_1_1_application_user_manager.html#afa073931fd3148cf9ef9053c7cbaac44"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationSignInManager"><param name="Local" value="class_library_1_1_application_sign_in_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationSignInManager"><param name="Local" value="class_library_1_1_application_sign_in_manager.html#a4113a60a7c7f7330e06475c12cf3ef3d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CreateUserIdentityAsync"><param name="Local" value="class_library_1_1_application_sign_in_manager.html#ae501e5caa9fb51553d1dfddb38635590"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RouteConfig.cs"><param name="Local" value="_route_config_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RouteConfig"><param name="Local" value="class_library_1_1_route_config.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Startup.Auth.cs"><param name="Local" value="_startup_8_auth_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Startup"><param name="Local" value="class_library_1_1_startup.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Configuration"><param name="Local" value="class_library_1_1_startup.html#afc518114c37d652431121c1c5bfd9546"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureAuth"><param name="Local" value="class_library_1_1_startup.html#ac7798a2a443291d6e5b2435863f420b3"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WebApiConfig.cs"><param name="Local" value="_web_api_config_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Controllers"><param name="Local" value="dir_bbc1fac7ecf511ce9f9279ae9268a072.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController.cs"><param name="Local" value="_account_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#af7993983665b1a3c9a4fda656535af4c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountController"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7d7d7b847431db1d414f0808db7c8eb8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmEmail"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ad66406e78a550447bb3437f29e2ac940"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a3fe72fc2696b37648baa20d8a9014468"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLogin"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ad5523c7284d68527b69c62fcd45b3222"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginCallback"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ae221550ddcbf35af21f0e95318dade20"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9ed2ba685908d5b929d594a731aa891c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginFailure"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aceb02440b581b45177a909677ee77600"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a29a4d30e3a7e656d328a5619bc1bbfdd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a842d643bb72f325e6957a802766a4140"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPasswordConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a6510f8ec78c4379760113b4837ecb949"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Login"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#ab06a0e89e894d821864ea6126cea93ad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Login"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a2b4d1d94765b720f8f4170384c0db6bc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LogOff"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9b8431d1975897d6575e385e53966dab"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Register"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aa8f967558ffaf05128bb8c134ea4b571"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Register"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#afcd8a01419f5cfb4e9cd73bdaf3cdcd4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a51d31d6113f339f19c2eb389ec56de7f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#aae872f8e51bfc540b77cd81af70279b6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPasswordConfirmation"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a241928af9b550bdb3c67b064748f466d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7a45ec13bed342ee47bb9d1bd460ba9a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a7b39975b4cc4348965ed881d8db7bf98"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a30349223df2132199c46689dbb1e6cd9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCode"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a6b3be57e435b07b10ec51d43e5a102b9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthenticationManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#abfab618a932c617eade4eb99d984b6d9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SignInManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a9cd4acf12aecd8ed23b0354b4a37e4d4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UserManager"><param name="Local" value="class_library_1_1_controllers_1_1_account_controller.html#a748166b301c199bfb03ec71f449e9f51"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController.cs"><param name="Local" value="_books_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a18846ff0b1d4d1179b1e7499ea9fe2ef"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BooksController"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a4416f8947334a99f79a4a5f29a211a23"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CleanDb"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#aa1edd5418889c10329e639a42d803d8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a2a2ee841597632c5310a5bf29b583a50"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Create"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ab0ecb2c0fb1d7acae73f74e9ae83f8c9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Delete"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ac0f62fc6e97422d8dbdcc3c408991057"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="DeleteConfirmed"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae7c08a5b590bdb2aa92dc4ca6196a03f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Details"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a9c2a6eb9b7447fb6afadf27d47bd9c57"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae48131c94300e336cf78accd2437663b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Edit"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#acb71e4b526782fe8d8035c7615fe1ca9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Edit"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a508bde8c38fb5372e29259ff78f5cddf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Export"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a3f9e4d382adcfc4d1c65a00d5fe32754"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Import"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a051faad3e17da6333568c7af58c18c8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Import"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a8bda11f4e1928b53cce12296943b6f52"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ada36e4fcc29ce88d0b14e2024e52d915"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAsc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ae95ea517de03f3c9b2f7378b26c0a8c5"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAuthAsc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#ab78a710f2cb27040ebfcfeb5f59a0a8a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexAuthDesc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#aaaadc278cbe865dea1d4cbe104174392"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexDesc"><param name="Local" value="class_library_1_1_controllers_1_1_books_controller.html#a59d3024606802a6c4e0c7b182a84f0af"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="HomeController.cs"><param name="Local" value="_home_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="HomeController"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="About"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a8a81282747fa93860bfca130d4961f31"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Contact"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a85f7c4c511f08d851f80412ff2e94203"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_home_controller.html#a35b904a96f19a2d723e61ef2bd779fa7"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController.cs"><param name="Local" value="_manage_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageMessageId"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af08d36b2147213fadb3b223d149ac802"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePasswordSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a0053618c57496fec45c67daf91919394"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetTwoFactorSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17987d9118fd576fed3cbec8d11bd8b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPasswordSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052af17ca72fcf8adaa46d5e87b12ec3a27d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveLoginSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a46e53931d0e837638a46368b2b04ba6a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="RemovePhoneSuccess"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a70460d8db9c29752c1f591eb67a60fdc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="Error"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab72c3f170eb9bb9f6b059242c28d2052a902b0d55fddef6f8d651fe1035b7d4bd"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#af18e857ed28253b48a2a56c7eee7a0da"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageController"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ac59e95e8aa419c0c8c388226ed1b0a0b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#aa8364d398f511ec0eb564cda038a4948"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a72b27999fdf8725b7cd121192aef0020"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ae4410cd46e1b19238699dbb8afa7bb41"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab5d5e51d0ab326001c0cfc0f6fc961cb"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableTwoFactorAuthentication"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a8c95d532c1833737852425c7fd90312d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Dispose"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a09b93d92ba11492d07929adbf21f298a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableTwoFactorAuthentication"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a6c0e71ad3cfdb9277de70b5f63a99eaa"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Index"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a3e0fe422c66f4a56eb836fc2bde1c1db"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LinkLogin"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#abb3399242c369abdecf4fe64c62023ad"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="LinkLoginCallback"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ad76164ee029263e15f27008bec595f28"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageLogins"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a27d71979bf36fd1f8abb0d964101b676"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RemoveLogin"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ae0bef12948e5fd7ed9668cbf74ca75e4"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RemovePhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#af366502415f059111b4e24d5507cd5e3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a5680f28fd0bf1f5081ac6c8324a6aad9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPassword"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#adeb04ff448076e88f4db88209e94b658"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a538cafc57c0b9b5f69409ec501e087c1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumber"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a832347cb42ba617cae0c8bc7a1d70758"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AuthenticationManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#ab9911323289b43d0724e10f091f70a7f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SignInManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#afb3651e7578c166e678a789de13b9a6c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="UserManager"><param name="Local" value="class_library_1_1_controllers_1_1_manage_controller.html#a71d570a26c9915bc0177461495bba442"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Models"><param name="Local" value="dir_a5bfa108244db94fe81cced7ba5d5ca8.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccountViewModels.cs"><param name="Local" value="_account_view_models_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginConfirmationViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_confirmation_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_external_login_confirmation_view_model.html#acf87ea03eca17ed35526c9e7ca42cb43"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalLoginListViewModel"><param name="Local" value="class_library_1_1_models_1_1_external_login_list_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_external_login_list_view_model.html#a910d9a8e70e535d8243e0c6ecbc6a398"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SendCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Providers"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#a34484c886213e020e4eb2277dc2aba4e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#ac7ed1cf0e22157bdeeb2fc894e07573e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#a7ee5c9c22faff904f141232867a3c2b1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectedProvider"><param name="Local" value="class_library_1_1_models_1_1_send_code_view_model.html#adae149e8ec284964a3c262f4ce002890"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyCodeViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a7812862c46c88a5bbf441d958cc75cc9"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Provider"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#afb2b8085dfa1fa8fb5c0aaaed481fe1e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberBrowser"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a8ea20923ffd0a9e097ba8171b0c05aff"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#aa4846ae60ee9431aa18d9cc9621a4c68"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ReturnUrl"><param name="Local" value="class_library_1_1_models_1_1_verify_code_view_model.html#a67cef0c8f70d86187fa690347e5546c9"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_forgot_view_model.html#aa28c9ce74be24a212a484b90e8c1837f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LoginViewModel"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#a51d039962a301f6b4c77d5493584f210"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#adf889d34271fd3e2184bb0a6612eb8cd"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RememberMe"><param name="Local" value="class_library_1_1_models_1_1_login_view_model.html#ae2e44ea3a203403f05139d60bf03661c"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="RegisterViewModel"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a7be7bdf951ba7c5ea1cc4203f82f9825"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a436f933bdb2c30659ff6d189b6db3509"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_register_view_model.html#a807b4d40f66a6417156a3e033a63cb47"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ResetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#a13af4accacaa57d63171a558425b0a2c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#acf466e40bd2c27863d7f2a418c54434a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#a673b1d422813cb4dc887cd844b774ae3"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Password"><param name="Local" value="class_library_1_1_models_1_1_reset_password_view_model.html#adb2a59569e4d8883135ce4f48208f7de"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ForgotPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_forgot_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Email"><param name="Local" value="class_library_1_1_models_1_1_forgot_password_view_model.html#ae2e3623bb063b748f32bd0970bcbd309"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Book.cs"><param name="Local" value="_book_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Book"><param name="Local" value="class_library_1_1_models_1_1_book.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Author"><param name="Local" value="class_library_1_1_models_1_1_book.html#a5a1817f136be83f2d8a4dd4ce60689f1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Id"><param name="Local" value="class_library_1_1_models_1_1_book.html#a41a3caf33fe05c396fc3f2ec434d398e"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Isbn"><param name="Local" value="class_library_1_1_models_1_1_book.html#ae0337d27cb49fe005529041bde101dec"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Rate"><param name="Local" value="class_library_1_1_models_1_1_book.html#add1dbb89ffd73e4f1516ac07f5af657d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Title"><param name="Local" value="class_library_1_1_models_1_1_book.html#a6dc561a6c496212d5c67c8a5ed32f5b3"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="IdentityModels.cs"><param name="Local" value="_identity_models_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationUser"><param name="Local" value="class_library_1_1_models_1_1_application_user.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="GenerateUserIdentityAsync"><param name="Local" value="class_library_1_1_models_1_1_application_user.html#a12de198324f1de8f58d0235d96576da0"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationDbContext"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ApplicationDbContext"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html#ab00700c88216462ad2bbdb8257ef1053"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Books"><param name="Local" value="class_library_1_1_models_1_1_application_db_context.html#a681112947c98b5058a08d566d625ee7d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LibraryDb.cs"><param name="Local" value="_library_db_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ILibraryDb"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Add&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#a00642abcb30f554fbed2e00ac3c09067"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Query&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#a5d489ead8978ba01c712af7659496b62"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Remove&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#aaa461fccadd7279cb1cff4b62a443d62"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update&lt; T &gt;"><param name="Local" value="interface_library_1_1_models_1_1_i_library_db.html#ac485b117f8d1fb15e77d563f01fec740"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="LibraryDb"><param name="Local" value="class_library_1_1_models_1_1_library_db.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Add&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a59572a8775d9dac23f33301dd5680fca"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Query&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a136c1c3555c216f6bdd59a874dc24097"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Remove&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a85af879b0d605628573343d3e9b5efb8"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Update&lt; T &gt;"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a56eb5ae6d48e2b156689e87d4e17b63f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Books"><param name="Local" value="class_library_1_1_models_1_1_library_db.html#a34671467a0e6a7ae2cbacde51719cb5a"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageViewModels.cs"><param name="Local" value="_manage_view_models_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IndexViewModel"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BrowserRemembered"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a0b0a215d756a40215c0c1ddd1dfb0193"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="HasPassword"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a4c67eaea48e5b7555d5d46920603551c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Logins"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#a5a737d665aa4f8fa05e13bbfb8e97e67"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PhoneNumber"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#ad59bb05d29521dd165d11c5fc49cfcb2"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="TwoFactor"><param name="Local" value="class_library_1_1_models_1_1_index_view_model.html#af4b03626cc75a553eedb6dddd306f4e6"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ManageLoginsViewModel"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentLogins"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html#a9a424138c8fb8b1cdc1fbd0ccbf67783"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OtherLogins"><param name="Local" value="class_library_1_1_models_1_1_manage_logins_view_model.html#abbe0570d9d200bf55492b4050e849a91"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_factor_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Purpose"><param name="Local" value="class_library_1_1_models_1_1_factor_view_model.html#a8958b918616f26df5f70a693ab11b699"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SetPasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html#a9b061c765f6f9bd270278f814648e43c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPassword"><param name="Local" value="class_library_1_1_models_1_1_set_password_view_model.html#a1ee06c11dcad3cb42b51838f50e45b57"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangePasswordViewModel"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfirmPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#a739379f44d007ac63b6dbd8519b52b4d"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="NewPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#a32780d9a0452af7075beedb5f0d5084c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OldPassword"><param name="Local" value="class_library_1_1_models_1_1_change_password_view_model.html#aaabc16e759846eb17355e40fb0708862"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AddPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_add_phone_number_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Number"><param name="Local" value="class_library_1_1_models_1_1_add_phone_number_view_model.html#a0f1c5c176303d35e345e8eb2da5b4273"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="VerifyPhoneNumberViewModel"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Code"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html#a9f5d63b3bb3a8b072056d45b50ecfd04"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="PhoneNumber"><param name="Local" value="class_library_1_1_models_1_1_verify_phone_number_view_model.html#a43175a4eea3ec8a654f81f75cee67312"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureTwoFactorViewModel"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Providers"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html#aaaeb66d1542b98235303c709d5a44a69"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SelectedProvider"><param name="Local" value="class_library_1_1_models_1_1_configure_two_factor_view_model.html#a53502921220bff741b41561a06c2eeb5"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="obj"><param name="Local" value="dir_7070724669190ad519985f89ee867359.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Debug"><param name="Local" value="dir_96d44df0f32a46171a0410449705357e.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs"><param name="Local" value="_temporary_generated_file__036_c0_b5_b-1481-4323-8_d20-8_f5_a_d_c_b23_d92_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs"><param name="Local" value="_temporary_generated_file__5937a670-0e60-4077-877b-f7221da3dda1_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs"><param name="Local" value="_temporary_generated_file___e7_a71_f73-0_f8_d-4_b9_b-_b56_e-8_e70_b10_b_c5_d3_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="dir_9cb416d0ba91d3eb2e2817cf25a73d91.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AssemblyInfo.cs"><param name="Local" value="_assembly_info_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Global.asax.cs"><param name="Local" value="_global_8asax_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MvcApplication"><param name="Local" value="class_library_1_1_mvc_application.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Application_Start"><param name="Local" value="class_library_1_1_mvc_application.html#abbc13e17f1d4d3df67d6191b2e4b3ab9"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Startup.cs"><param name="Local" value="_startup_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Startup"><param name="Local" value="class_library_1_1_startup.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Configuration"><param name="Local" value="class_library_1_1_startup.html#afc518114c37d652431121c1c5bfd9546"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureAuth"><param name="Local" value="class_library_1_1_startup.html#ac7798a2a443291d6e5b2435863f420b3"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
