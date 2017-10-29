@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
 namespace Library.Controllers
 {
@@ -15,14 +11,16 @@ namespace Library.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Prosta biblioteka do wykorzystania w domu.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "O mnie";
+            ViewBag.Name = "Grzegorz Pietrzak";
+            ViewBag.Location = "Rzeszów";
 
             return View();
         }

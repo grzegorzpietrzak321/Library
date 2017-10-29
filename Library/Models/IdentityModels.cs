@@ -1,5 +1,4 @@
-﻿using System.Data.Entity;
-using System.Security.Claims;
+﻿using System.Security.Claims;
 using System.Threading.Tasks;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
@@ -29,5 +28,7 @@ namespace Library.Models
         {
             return new ApplicationDbContext();
         }
+
+        public System.Data.Entity.DbSet<Library.Models.Book> Books { get; set; }
     }
 }
