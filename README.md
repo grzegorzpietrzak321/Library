@@ -24,3 +24,5 @@ Dodatkowo dołączona jest dokumentacja kodu w postaci strony html oraz pliku rt
 Strona po sklonowaniu repozytorium powinna się bez problemu otworzyć w Visual Studio 2017 jak również hostując ją na serwerze IIS.
 
 Pozdrawiam ;)
+
+Grzegorz Pietrzak
