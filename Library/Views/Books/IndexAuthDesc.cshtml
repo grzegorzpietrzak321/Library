@@ -31,11 +31,13 @@
             @Html.DisplayFor(modelItem => item.Author)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
-            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+@Html.ActionLink("Edytuj", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Szczegóły", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Skasuj", "Delete", new { id=item.Id })
         </td>
     </tr>
 }
 
 </table>
+<div style="text-align: right">@Html.ActionLink("Eksport", "Export") |
+            @Html.ActionLink("Import", "Import") | @Html.ActionLink("Skasuj wszystko z bazy", "CleanDb")</div>

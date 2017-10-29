@@ -1,0 +1,21 @@
+﻿@model Library.Models.Book
+
+@{
+    ViewBag.Title = "Import danych z pliku";
+
+}
+
+@using (Html.BeginForm("Import", "Books", FormMethod.Post, new { enctype = "multipart/form-data"}))
+{
+    <h2>@ViewBag.Title</h2>
+    <h3>@ViewBag.Error</h3>
+    <h3>@ViewBag.Success</h3>
+
+
+    <div>
+        <input type="file" name="jsonPostedFile"/>
+        <button type="submit" value="Import">
+            <a href="@Url.Action("Index", "Books")"> Ślij</a>
+        </button>
+    </div>
+}
