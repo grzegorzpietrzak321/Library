@@ -17,6 +17,6 @@ Aplikacja stworzona została przy pomocy VS2017 jako strona internetowa ASP.NET 
 
 Dodatkowo jest możliwość eksportu danych do pliku json oraz importu również z takowego. 
 
-Dodatkowo dołączona jest dokumentacja kodu w postaci strony html oraz pliku rtf. Wygenerowana poprzez program Doxygen. 
+Dodatkowo dołączona jest dokumentacja kodu w postaci strony html oraz pliku rtf (foldery html oraz rtf). Wygenerowana poprzez program Doxygen. 
 
 Strona po sklonowaniu repozytorium powinna się bez problemu otworzyć w Visual Studio 2017 jak również hostując ją na serwerze IIS.
